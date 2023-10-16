@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "titulo": "Post de ejemplo 1",
+        "texto": "Este es el texto del post de ejemplo 1"
+    },
+    {
+        "id":2,
+        "titulo": "Post de ejemplo 2",
+        "texto": "Este es el texto del post de ejemplo 2"
+    },
+    {
+        "id":3,
+        "titulo": "Post de ejemplo 3",
+        "texto": "Este es el texto del post de ejemplo 3"
+    },
+    {
+        "id":4,
+        "titulo": "Post de ejemplo 4",
+        "texto": "Este es el texto del post de ejemplo 4"
+    },
+    {
+        "id":5,
+        "titulo": "Post de ejemplo 5",
+        "texto": "Este es el texto del post de ejemplo 5"
+    }
+]
